@@ -1,6 +1,6 @@
-# brainly-picture-environment
+# Brainly-picture-environment
 Picture environment wiki for Brainly Latex
-
+# Contacts
 <a href="https://www.instagram.com/ankitraj_707/">
 <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23000000.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
