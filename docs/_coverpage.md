@@ -1,3 +1,5 @@
+<p align='center'> <img src="https://styleguide.brainly.com/images/logos/brainly-5c4a769505.svg" ></p>
+
 # Brainly-Picture-Environment
 > A Guide to the Picture Environment of LaTeX for Brainly 
 
