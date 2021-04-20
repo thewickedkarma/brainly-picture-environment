@@ -1,7 +1,7 @@
-# Picture Environment
+# Brainly-Picture-Environment
 > A Guide to the Picture Environment of LaTeX for Brainly 
 
-This documentation site is currently under construction.
+More things to be added soon.
 
 [GitHub](https://github.com/Git-Ankitraj/brainly-picture-environment/)
 [Brainly](https://www.brainly.in/app/profile/23926353/)
