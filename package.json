@@ -1,0 +1,27 @@
+{
+  "name": "picture-environment-latex",
+  "version": "1.0.0",
+  "description": "A Guide to the Picture Environment of LaTeX for Brainly",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheReconPilot/picture-environment-latex.git"
+  },
+  "author": "TheReconPilot",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/TheReconPilot/picture-environment-latex/issues"
+  },
+  "homepage": "https://github.com/TheReconPilot/picture-environment-latex#readme",
+  "devDependencies": {
+    "docsify-cli": "^4.4.1"
+  },
+  "dependencies": {}
+}
