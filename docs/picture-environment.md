@@ -1,7 +1,8 @@
 # Picture Environment - LaTeX on Brainly
 
 \- By Purva, [@QGP](https://brainly.in/app/profile/48021), Brainly India
-\- Contributed By Ankit, [@Ankitraj707](https://brainly.in/app/profile/48021), Brainly India
+
+\- Contributed By Ankit, [@Ankitraj707](https://www.brainly.in/app/profile/23926353/), Brainly India
 
 
 Environments in LaTeX are a way to group certain type of commands together. You may have used the `array` and `tabular` environments while making tables. Here, we look at the `picture` environment, which is helpful in creating diagrams.
