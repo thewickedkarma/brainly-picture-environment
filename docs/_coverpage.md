@@ -3,6 +3,6 @@
 
 This documentation site is currently under construction.
 
-[GitHub](https://www.github.com/TheReconPilot/picture-environment-latex/)
-[Brainly](https://www.brainly.in/app/profile/48021/)
+[GitHub](https://github.com/Git-Ankitraj/brainly-picture-environment/)
+[Brainly](https://www.brainly.in/app/profile/23926353/)
 [Introduction](#picture-environment-latex-on-brainly)
