@@ -1,5 +1,7 @@
-<p align='center'> <img width="25%" src="https://styleguide.brainly.com/images/logos/brainly-5c4a769505.svg" ></p>
-
+<p align='center'> <img width="25%" src="https://hi-static.z-dn.net/files/da8/0ffad3c1ede6a806ec1724190723de04.jpg" ></p
+<style>
+img{border-radius:50%;} 
+</style>
 # Brainly-Picture-Environment
 > A Guide to the Picture Environment of LaTeX for Brainly 
 
