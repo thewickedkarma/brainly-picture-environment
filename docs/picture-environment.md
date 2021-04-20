@@ -470,8 +470,7 @@ Here's a labelled version to help it understand better:
 
 ![shaded-circle-0-labelled](https://raw.githubusercontent.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/shaded-circle-0-labelled.png ':size=460')
 
-## Contact:
-<p align="center">
+### Contact:
     <a href="https://www.instagram.com/ankitraj_707/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23000000.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
     <a href="https://twitter.com/Ankitraj7079">
@@ -480,7 +479,5 @@ Here's a labelled version to help it understand better:
     <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://brainly.in/app/profile/23926353">
     <img alt="Brainly" src="https://img.shields.io/badge/Brainly%20-%23000000.svg?&style=for-the-badge&logo=Brainly&logoColor=white"/></a>
-  
-</p>
 
 
