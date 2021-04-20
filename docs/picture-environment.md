@@ -228,7 +228,7 @@ Here's the code and screenshot:
 
 
 
-![line-segment-0](https://github.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/line-segment-0.png ':size=460')
+![line-segment-0](https://raw.githubusercontent.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/line-segment-0.png ':size=460')
 
 
 
@@ -257,11 +257,11 @@ Putting it together, our code now looks like this:
 \end{picture}
 ```
 
-![line-segment-1](https://github.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/line-segment-1.png ':size=460')
+![line-segment-1](https://raw.githubusercontent.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/line-segment-1.png ':size=460')
 
 If you are having trouble visualizing the co-ordinates, here's a labelled image:
 
-![line-segment-1-labelled](https://github.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/line-segment-1-labelled.png ':size=460')
+![line-segment-1-labelled](https://raw.githubusercontent.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/line-segment-1-labelled.png ':size=460')
 
 
 
@@ -286,7 +286,7 @@ So, all in all, our code is:
 
 Here's a co-ordinate labelled screenshot of the above code:
 
-![line-segment-2-labelled](https://github.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/line-segment-2-labelled.png ':size=460')
+![line-segment-2-labelled](https://raw.githubusercontent.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/line-segment-2-labelled.png ':size=460')
 
 
 
@@ -313,7 +313,7 @@ Both ways are correct. I am picking the second way here and completing the code:
 
 Here's how our square looks like:
 
-![square](https://github.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/square.png ':size=460')
+![square](https://raw.githubusercontent.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/square.png ':size=460')
 
 And that's our first complete diagram with the Picture Environment! 
 
@@ -363,13 +363,13 @@ Let's consider a simple example:
 
 We have put in two arrows of length 3 units each. One is pointing upwards, i.e. towards (0, 1). The other is pointing towards the right, i.e. towards (1, 0).
 
-![vector-0](https://github.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/vector-0.png ':size=460')
+![vector-0](https://raw.githubusercontent.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/vector-0.png ':size=460')
 
 
 
 Here's the labelled form if you are having trouble visualizing in terms of co-ordinates.
 
-![vector-0-labelled](https://github.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/vector-0-labelled.png ':size=460')
+![vector-0-labelled](https://raw.githubusercontent.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/vector-0-labelled.png ':size=460')
 
 As we can see, the upward pointing arrow starts at (3, 2). The rightward pointing arrow starts at (2, 3). 
 
@@ -404,7 +404,7 @@ Here's a simple example:
 \end{picture}
 ```
 
-![circle-0](https://github.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/circle-0.png 'size=460')
+![circle-0](https://raw.githubusercontent.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/circle-0.png 'size=460')
 
 Let's add a line-segment to show the diameter. The diameter is 1 cm, so radius is 0.5 cm. The circle is centred at (3, 3), so we can start a line-segment from (2.5, 3), which is just 0.5 cm left to the centre.
 
@@ -422,7 +422,7 @@ Let's add a line-segment to show the diameter. The diameter is 1 cm, so radius i
 
 Here's how it looks:
 
-![circle-1](https://github.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/circle-1.png 'size=460')
+![circle-1](https://raw.githubusercontent.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/circle-1.png 'size=460')
 
 
 
@@ -462,13 +462,13 @@ Notice a few things here:
 
 Here's how the code looks:
 
-![shaded-circle-0](https://github.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/shaded-circle-0.png ':size=460')
+![shaded-circle-0](https://raw.githubusercontent.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/shaded-circle-0.png ':size=460')
 
 
 
 Here's a labelled version to help it understand better:
 
-![shaded-circle-0-labelled](https://github.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/shaded-circle-0-labelled.png ':size=460')
+![shaded-circle-0-labelled](https://raw.githubusercontent.com/Git-Ankitraj/brainly-picture-environment/main/docs/_media/screenshots/shaded-circle-0-labelled.png ':size=460')
 
 
 
