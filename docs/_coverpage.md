@@ -1,4 +1,4 @@
-<p align='center'> <a href="https://brainly.in/app/profile/23926353/"> <img class="intro" width="25%" src="https://hi-static.z-dn.net/files/d8d/5ff8f64252eecd44e36817b324d0cd7c.jpg" ></a></p>
+<p align='center'> <a href="https://brainly.in/app/profile/23926353/"> <img class="intro" width="25%" src="https://hi-static.z-dn.net/files/de7/a82ecebcbee117d1a1335562086436b1.jpg" ></a></p>
 
 
 # Brainly-Picture-Environment
